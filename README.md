@@ -1,4 +1,3 @@
 resume
 ======
-
-Repo contains my most updated resume written in LaTeX
+Latest version of resume written in LaTeX
